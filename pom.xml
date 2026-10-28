@@ -60,7 +60,7 @@
 
         <jgit.version>5.13.3.202401111512-r</jgit.version>
         <jgit.JavaEWAH.version>1.1.7</jgit.JavaEWAH.version>
-        <ognl.version>3.2.15</ognl.version>
+        <ognl.version>3.4.13</ognl.version>
         <objmeld.version>3.4.0</objmeld.version>
         <javax-servlet.version>4.0.1</javax-servlet.version>
         <javax-rs-api.version>2.0.1</javax-rs-api.version>
